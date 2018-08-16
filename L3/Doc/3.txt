@@ -1,0 +1,92 @@
+
+The Internet was invented in the late 1960s by the US Defense Department’s Advanced Research Projects Agency. In 1969,
+there was a network of just four mainframe computers. A mainframe computer is a large, powerful computer, shared by many users.
+The idea of the electronic mailbox was born when users looked for a way to talk to each other electronically. By 1984,the
+Internet had begun to develop into the form we know today. Electronic mail is much faster than traditional mail, because
+once the message is typed out, it arrives in the electronic mail box of the recipient within minutes. It’s better to use
+e-mail to contact friends rather than phone them, because e-mail is cheaper for long distances than the phone. People
+can share their interests through the Internet and it makes it very easy to exchange ideas and information.
+The fax machine is a very convenient aid to contact companies and friends because messages are transmitted immediately.
+Fax machines work like photocopiers. They make a copy of a document and then send it down a telephone line to another fax
+machine. In this  way they can send and receive information from each other. You can send any kind of things by fax, but it
+is more expensive than e-mail.
+
+Online ads have always been annoying, but now they’re worse than ever.
+Consider what happens when you shop online for a wristwatch. You peruse a few watch websites and the next thing you know,
+a watch advertisement is following you everywhere. On your computer, it’s loading in your Facebook feed. On your phone,
+it’s popping up on Instagram. In your web browser on either, it’s appearing on news sites that have nothing to do with watches.
+Even if you end up ordering the watch, the ads continue trailing you everywhere.
+They’re stalker ads.
+And they are a symptom of how online ads are becoming increasingly targeted and persistent. Tracking technologies like web cookies
+are collecting information about our browsing activities from site to site. Marketers and ad tech companies compile that
+data to target us across our devices. And trackers are now so sophisticated that they can see when you are thinking about
+ buying something but don’t follow through — so they tell the ads to chase you around so you make the purchase.
+To the ad industry, targeted ads are better for people than the old days of randomly blasting commercials.
+“The content isn’t free, so what would you rather see?” said Sarah Hofstetter, the chairwoman for the ad agency 360i. “Ads
+ that are at least trying to be of interest to you, or ads that are spray and pray?”
+Advertisement
+That’s a fair point. On the other hand, these creepy ads can be extremely annoying, especially when they make incorrect assumptions.
+ They are another example, along with obnoxious auto-play videos and internet trolls taking over internet comments, of how
+ a few bad actors are breaking the integrity of the web.
+Stalker ads also raise privacy concerns. A 2012 survey by Pew Research Center found that 68 percent of internet users did not
+like targeted advertising because they do not like having their online behavior tracked and analyzed. Your browsing history can
+ reveal a lot about you, including your health issues, political affiliations and sexual habits.
+Fortunately, I have good news. After several years of interviewing internet companies and privacy experts and testing many web
+tools, I finally managed to make my stalker ads go away.
+Why are ads stalking me?
+Before you try to exorcise targeted ads, it helps to understand what’s going on behind the scenes.
+Let’s say you are shopping online for a blender. You load a webpage for a blender from Brand X, then close the browser. The
+ next time you open the browser, ads for the blender are following you from site to site. They’re also showing up in some of
+ your mobile apps like Facebook and Instagram.
+When you visited Brand X’s website, the site stored a cookie on your device containing a unique identifier. Brand X hired multiple
+ ad tech companies to do its marketing. The ad tech companies embedded trackers that also loaded on Brand X’s website, and the
+  trackers took a look at your cookie to pinpoint your device.
+The trackers can tell if you are interested in buying something. They look for signals — like if you closed the browser after
+looking at the blender for awhile or left the item in the site’s shopping cart without completing the purchase. From there, the
+ad tech companies can follow your cookie through trackers and ad networks on various sites and apps to serve you an ad for the blender.
+Ms. Hofstetter said that among ad tech companies, there are good actors and bad actors. The good ones will try to minimize the
+ chances of annoying you by showing you the blender ad only a few times and stopping if they detect that you made the purchase.
+  The bad ones only care to persuade you to buy the blender, so they will relentlessly serve you the ad and not bother to
+  determine whether you already bought it.
+Things get extra messy when brands employ multiple ad tech companies that employ different approaches. Perhaps one ad company
+finished serving you the blender ad after a few times on Facebook. But elsewhere on the web or inside another app, another ad
+ tech company served you that same ad endlessly.
+What are some easy ways to sidestep stalker ads?
+Here are a few simple steps you can take if you are being pestered by an ad and want that to end:
+ Periodically, clear your cookies. Ad trackers will have a tougher time following you around if you delete your cookies on each
+ of your devices. Apple, Google and Microsoft have published instructions on how to clear data for their browsers Safari,
+ Chrome and Edge. (Click the links for instructions.)
+ Reset your advertising ID. In addition to cookies, Android and Apple phones use a so-called advertising ID to help marketers
+ track you. You can reset it whenever you want. On Android devices, you can find the reset button in the ads menu inside the
+  Google settings app, and on iPhones, you can find the reset button inside the settings app in the privacy menu, under advertising.
+ Periodically purge your Google ad history. Google offers the My Activity tool, myactivity.google.com, where you can take a
+ deep look at the data that Google has stored about you, including the history of ads you have loaded, and choose the data you want to delete.
+Advertisement
+ If possible, hide the annoying ad. On some web ads, like those served by Google and Facebook, there is a tiny button
+ in the top-right corner that you can click on to hide the ad.
+Can I bring that up a notch?
+There are more extreme methods to take if you want to prevent targeted ads from ever following you around. But this isn’t
+ for the faint of heart: In my experience, you have to take all, not just some, of these steps to get the pesky ads to leave you alone forever.
+ Install an ad blocker. For your web browser, you can install add-ons that block ads. My favorite one for computer browsers
+  is uBlock Origin, and on iPhones I recommend 1Blocker X. (For Android users, Google banned many ad blockers from its
+   official Play app store, so the simplest way to block ads is by using a private web browser.)
+ On mobile devices, use a private browser. Firefox Focus, DuckDuckGo and Ghostery Privacy Browser are privacy-centric mobile
+  browsers that include built-in ad and tracker blocking. These are handy when you want to do a discreet web search.
+   (They can be impractical to use as everyday browsers because the built-in blockers can break important parts of websites.)
+ Install a tracker blocker. Tracker blockers detect snoopy code on websites and prevent them from loading. My favorite
+ tracker blocker for desktop and mobile systems is Disconnect.me.
+Wherever you can, opt out of interest-based advertising. Tech companies including Google, Facebook, Twitter and Apple
+offer instructions on opting out of receiving ads based on your interests.
+It will probably take you a couple of hours to set yourself up to prevent ads from haunting you. I gradually made all
+these changes to my devices and internet accounts over the last few years and only recently stopped seeing targeted ads.
+ It was a grueling process.
+Advertisement
+But I’ve been happy with the results. Those wristwatch ads that once followed me are gone. And recently, I was served
+an ad for 7-11 on Instagram.
+Was that ad irrelevant to me? Yes. But was it a sign that I was no longer being well tracked? Also yes. I confess I was
+ pretty happy to see it.
+Brian X. Chen, our lead consumer technology reporter, writes Tech Fix, a column about solving tech-related problems like
+ sluggish Wi-Fi, poor smartphone battery life and the complexity of taking your smartphone abroad. What confuses you or
+ makes you angry about your tech?
+A version of this article appears in print on Aug. 16, 2018, on Page B5 of the New York edition
+
