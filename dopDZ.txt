@@ -1,0 +1,16 @@
+Создание таблицы (два поля дат, во втором дата записана задом наперёд (год, месяц, день) т.к. фильтрация по максимальной дате происходит именно в таком порядке,
+и я не знаю иных путей это исправить.
+
+CREATE TABLE dopDZ (
+    name TEXT,
+    date DATE,
+    data DATE
+);
+
+SQL запрос на вывод:
+
+SELECT name,date FROM dopDZ
+WHERE data= (select max(data) from dopDZ AS S where S.name=dopDZ.name) group by dopDZ.name
+
+
+
